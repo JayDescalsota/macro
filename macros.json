@@ -1,0 +1,24 @@
+[
+{
+  "id": "b12dde38",
+  "name": "Macro for TheDivision2.exe",
+  "enabled": true,
+  "trigger": "z",
+  "trigger_event": "press",
+  "outputs": [
+    {"input": "mouse_right", "action": "toggle"},
+    {"input": "mouse_left", "action": "toggle"}
+  ],
+  "action_type": "combo",
+  "combo": "mouse_right+mouse_left",
+  "text": "",
+  "sequence": [],
+  "filter_type": "none",
+  "filter_value": "",
+  "hold_repeat": false,
+  "repeat_interval_ms": 100,
+  "press_mode": "toggle",
+  "suppress_original": true,
+  "description": ""
+}
+]
